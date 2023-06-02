@@ -15,11 +15,11 @@ Postdoctoral Researcher
 
 <div id="webaddress">
   <!-- <a href="mailto:ffjla@dtu.dk"><i class="fas fa-envelope"></i> ffla@dtu.dk</a> | -->
-  <a href="http://fdojurado.github.io"><i class="fas fa-home"></i> fdojurado.github.io</a> -
+  <a href="http://fdojurado.github.io"><i class="fas fa-home"></i> fdojurado.github.io</a> |
   <a href="https://www.linkedin.com/in/fdojurado"><i class="fab fa-linkedin"></i> LinkedIn</a> |
-  <a href="https://scholar.google.com/citations?user=69QAyEYAAAAJ"><i class="ai ai-google-scholar-square"></i> Google Scholar</a> -
-  <a href="https://github.com/fdojurado"><i class="fab fa-github"></i> fdojurado</a> -
-  <a href="https://orcid.org/0000-0002-5005-781X"><i class="ai ai-orcid"></i> 0000-0002-5005-781X</a> -
+  <a href="https://scholar.google.com/citations?user=69QAyEYAAAAJ"><i class="ai ai-google-scholar-square"></i> Google Scholar</a> |
+  <a href="https://github.com/fdojurado"><i class="fab fa-github"></i> fdojurado</a> |
+  <a href="https://orcid.org/0000-0002-5005-781X"><i class="ai ai-orcid"></i> 0000-0002-5005-781X</a> |
   <a href="https://www.researchgate.net/profile/F-Fernando-Jurado-Lasso"><i class="ai ai-researchgate-square"></i> F-Fernando-Jurado-Lasso</a>
   <!-- <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a> -->
 </div>
@@ -33,8 +33,9 @@ I am interested in the application of machine learning techniques to wireless se
 `2017-2020`
 **PhD, Engineering and IT**, [The University of Melbourne](https://www.unimelb.edu.au/), Australia
 
-- [Department of Electrical and Electronic Engineering (EEE)](https://electrical.eng.unimelb.edu.au/), [Networked Society Institute (NSI)](https://networkedsociety.unimelb.edu.au/)
-- Thesis: [A Software-Defined Networking Framework for IoT](http://hdl.handle.net/11343/243063)
+- [Department of Electrical and Electronic Engineering (EEE)](https://electrical.eng.unimelb.edu.au/), [Networked Society Institute (NSI)](https://networkedsociety.unimelb.edu.au/).
+- Thesis: [A Software-Defined Networking Framework for IoT](http://hdl.handle.net/11343/243063).
+- Supervised by [Ampalavanapillai Nirmalathas](https://findanexpert.unimelb.edu.au/profile/15285-ampalavanapillai-nirmalathas), and Ken Clarke.
 
 `2014-2015`
 **MEng, Telecommunications Engineering**, [The University of Melbourne](https://www.unimelb.edu.au/), Australia
@@ -44,12 +45,12 @@ I am interested in the application of machine learning techniques to wireless se
 `2006-2012`
 **BEng, Electronics Engineering**, [Universidad del Valle](https://www.univalle.edu.co/), Colombia
 
-- [Escuela de Ingenierías Eléctrica y Electrónica (EIEE)](https://eiee.univalle.edu.co/ingenieria-electronica)
+- [Escuela de Ingenierías Eléctrica y Electrónica (EIEE)](https://eiee.univalle.edu.co/ingenieria-electronica).
 
 ## Research experience
 
 `2021-Present`
-**Postdoctoral Researcher**, [Embedded Systems Engineering (ESE)](https://www.compute.dtu.dk/english/research/research-sections/ese), [Department of Applied Mathematics and Computer Science (DTU Compute)](https://www.compute.dtu.dk/), [Technical University of Denmark (DTU)](https://www.dtu.dk/english), Denmark
+**Postdoctoral Researcher**, [Embedded Systems Engineering (ESE)](https://www.compute.dtu.dk/english/research/research-sections/ese), [Department of Applied Mathematics and Computer Science (DTU Compute)](https://www.compute.dtu.dk/), [Technical University of Denmark (DTU)](https://www.dtu.dk/english), Denmark.
 
 `2017-2020`
 **PhD Researcher**, NSI, EEE Department, The University of Melbourne, Australia
@@ -83,17 +84,17 @@ Distinguished Student Award, The University of Valle, Colombia
 ### Main courses
 
 `2020`
-Head Tutor, [Electrical Network Analysis and Design (ENAD)](https://handbook.unimelb.edu.au/2021/subjects/elen30009)
+Head Tutor, [Electrical Network Analysis and Design (ENAD)](https://handbook.unimelb.edu.au/2021/subjects/elen30009).
 
 - EEE Department, The University of Melbourne
 
 `2018-2020`
-Head Tutor, [Embedded System Design (ESD)](https://handbook.unimelb.edu.au/2021/subjects/elen90066)
+Head Tutor, [Embedded System Design (ESD)](https://handbook.unimelb.edu.au/2021/subjects/elen90066).
 
 - EEE Department, The University of Melbourne
 
 `2018-2019`
-Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.unimelb.edu.au/2021/subjects/elen30014)
+Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.unimelb.edu.au/2021/subjects/elen30014).
 
 - EEE Department, The University of Melbourne
 
@@ -113,7 +114,7 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 **Daniel Borislavov, Niels Georg, and Andreas Work**, Master of Science in Engineering (MScEng), DTU Compute, Denmark.
 
 - Topic: *A Software-Defined based Approach for Mobile Internet of Things*.
-- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/)
+- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 ### Bachelor students
 
@@ -122,14 +123,14 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 **Qixin Ma**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
 - Topic: *Design and Implementation of a GUI for a SDWSN Architecture*.
-- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/)
+- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 `2021-2022`
 
 **Christopher Acosta**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
 - Topic: *Comparison of TSCH schedulers for WSNs in Contiki-NG*.
-- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/)
+- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 ## Publications
 
