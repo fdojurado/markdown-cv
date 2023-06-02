@@ -35,7 +35,7 @@ I am interested in the application of machine learning techniques to wireless se
 
 - [Department of Electrical and Electronic Engineering (EEE)](https://electrical.eng.unimelb.edu.au/), [Networked Society Institute (NSI)](https://networkedsociety.unimelb.edu.au/).
 - Thesis: [A Software-Defined Networking Framework for IoT](http://hdl.handle.net/11343/243063).
-- Supervised by [Ampalavanapillai Nirmalathas](https://findanexpert.unimelb.edu.au/profile/15285-ampalavanapillai-nirmalathas), and Ken Clarke.
+- Supervised by [Prof. Ampalavanapillai Nirmalathas](https://findanexpert.unimelb.edu.au/profile/15285-ampalavanapillai-nirmalathas), and Ken Clarke.
 
 `2014-2015`
 **MEng, Telecommunications Engineering**, [The University of Melbourne](https://www.unimelb.edu.au/), Australia
@@ -114,7 +114,7 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 **Daniel Borislavov, Niels Georg, and Andreas Work**, Master of Science in Engineering (MScEng), DTU Compute, Denmark.
 
 - Topic: *A Software-Defined based Approach for Mobile Internet of Things*.
-- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
+- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 ### Bachelor students
 
@@ -123,14 +123,14 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 **Qixin Ma**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
 - Topic: *Design and Implementation of a GUI for a SDWSN Architecture*.
-- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
+- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 `2021-2022`
 
 **Christopher Acosta**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
 - Topic: *Comparison of TSCH schedulers for WSNs in Contiki-NG*.
-- Supervised by [Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
+- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 ## Publications
 
