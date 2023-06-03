@@ -31,26 +31,26 @@ I am interested in the application of machine learning techniques to wireless se
 ## Education
 
 `2017-2020`
-**PhD, Engineering and IT**, [The University of Melbourne](https://www.unimelb.edu.au/), Australia
+**PhD, Engineering and IT**, [The University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"}, Australia
 
-- [Department of Electrical and Electronic Engineering (EEE)](https://electrical.eng.unimelb.edu.au/), [Networked Society Institute (NSI)](https://networkedsociety.unimelb.edu.au/).
-- Thesis: [A Software-Defined Networking Framework for IoT](http://hdl.handle.net/11343/243063).
-- Supervised by [Prof. Ampalavanapillai Nirmalathas](https://findanexpert.unimelb.edu.au/profile/15285-ampalavanapillai-nirmalathas), and Ken Clarke.
+- [Department of Electrical and Electronic Engineering (EEE)](https://electrical.eng.unimelb.edu.au/){:target="_blank"}, [Networked Society Institute (NSI)](https://networkedsociety.unimelb.edu.au/){:target="_blank"}.
+- Thesis: [A Software-Defined Networking Framework for IoT](http://hdl.handle.net/11343/243063){:target="_blank"}.
+- Supervised by [Prof. Ampalavanapillai Nirmalathas](https://findanexpert.unimelb.edu.au/profile/15285-ampalavanapillai-nirmalathas){:target="_blank"}, and Ken Clarke.
 
 `2014-2015`
-**MEng, Telecommunications Engineering**, [The University of Melbourne](https://www.unimelb.edu.au/), Australia
+**MEng, Telecommunications Engineering**, [The University of Melbourne](https://www.unimelb.edu.au/){:target="_blank"}, Australia
 
 - EEE Department.
 
 `2006-2012`
-**BEng, Electronics Engineering**, [Universidad del Valle](https://www.univalle.edu.co/), Colombia
+**BEng, Electronics Engineering**, [Universidad del Valle](https://www.univalle.edu.co/){:target="_blank"}, Colombia
 
-- [Escuela de Ingenierías Eléctrica y Electrónica (EIEE)](https://eiee.univalle.edu.co/ingenieria-electronica).
+- [Escuela de Ingenierías Eléctrica y Electrónica (EIEE)](https://eiee.univalle.edu.co/ingenieria-electronica){:target="_blank"}.
 
 ## Research experience
 
 `2021-Present`
-**Postdoctoral Researcher**, [Embedded Systems Engineering (ESE)](https://www.compute.dtu.dk/english/research/research-sections/ese), [Department of Applied Mathematics and Computer Science (DTU Compute)](https://www.compute.dtu.dk/), [Technical University of Denmark (DTU)](https://www.dtu.dk/english), Denmark.
+**Postdoctoral Researcher**, [Embedded Systems Engineering (ESE)](https://www.compute.dtu.dk/english/research/research-sections/ese){:target="_blank"}, [Department of Applied Mathematics and Computer Science (DTU Compute)](https://www.compute.dtu.dk/){:target="_blank"}, [Technical University of Denmark (DTU)](https://www.dtu.dk/english){:target="_blank"}, Denmark.
 
 `2017-2020`
 **PhD Researcher**, NSI, EEE Department, The University of Melbourne, Australia
@@ -84,24 +84,24 @@ Distinguished Student Award, The University of Valle, Colombia
 ### Main courses
 
 `2020`
-Head Tutor, [Electrical Network Analysis and Design (ENAD)](https://handbook.unimelb.edu.au/2021/subjects/elen30009).
+Head Tutor, [Electrical Network Analysis and Design (ENAD)](https://handbook.unimelb.edu.au/2021/subjects/elen30009){:target="_blank"}.
 
 - EEE Department, The University of Melbourne
 
 `2018-2020`
-Head Tutor, [Embedded System Design (ESD)](https://handbook.unimelb.edu.au/2021/subjects/elen90066).
+Head Tutor, [Embedded System Design (ESD)](https://handbook.unimelb.edu.au/2021/subjects/elen90066){:target="_blank"}.
 
 - EEE Department, The University of Melbourne
 
 `2018-2019`
-Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.unimelb.edu.au/2021/subjects/elen30014).
+Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.unimelb.edu.au/2021/subjects/elen30014){:target="_blank"}.
 
 - EEE Department, The University of Melbourne
 
 ### Guest lectures
 
 `2021-2023`
-[Operating Systems for IoT](https://kurser.dtu.dk/course/02159)
+[Operating Systems for IoT](https://kurser.dtu.dk/course/02159){:target="_blank"}
 
 - ESE, DTU Compute, DTU
 
@@ -114,7 +114,7 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 **Daniel Borislavov, Niels Georg, and Andreas Work**, Master of Science in Engineering (MScEng), DTU Compute, Denmark.
 
 - Topic: _A Software-Defined based Approach for Mobile Internet of Things_.
-- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
+- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/){:target="_blank"}, and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/){:target="_blank"}.
 
 ### Bachelor students
 
@@ -123,40 +123,40 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 **Qixin Ma**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
 - Topic: _Design and Implementation of a GUI for a SDWSN Architecture_.
-- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
+- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/){:target="_blank"}, and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/){:target="_blank"}.
 
 `2021-2022`
 
 **Christopher Acosta**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
 - Topic: _Comparison of TSCH schedulers for WSNs in Contiki-NG_.
-- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
+- Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/){:target="_blank"}, and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/){:target="_blank"}.
 
 ## Publications
 
-A list is also available [online](https://scholar.google.com/citations?user=69QAyEYAAAAJ)
+A list is also available [online](https://scholar.google.com/citations?user=69QAyEYAAAAJ){:target="_blank"}
 
 ### Journals
 
 `2023`
-**F. Fernando Jurado-Lasso**, Mohammadreza Barzegaran, J. F. Jurado, Xenofon Fafoutis (2023). ELISE: A Reinforcement Learning Framework to Optimize the Sloftframe Size of the TSCH Protocol in IoT Networks. _Preprint available at TechRxiv_. DOI: [10.36227/techrxiv.23212442.v1](https://doi.org/10.36227/techrxiv.23212442.v1).
+**F. Fernando Jurado-Lasso**, Mohammadreza Barzegaran, J. F. Jurado, Xenofon Fafoutis (2023). ELISE: A Reinforcement Learning Framework to Optimize the Sloftframe Size of the TSCH Protocol in IoT Networks. _Preprint available at TechRxiv_. DOI: [10.36227/techrxiv.23212442.v1](https://doi.org/10.36227/techrxiv.23212442.v1){:target="_blank"}.
 
 `2022`
-**F. Fernando Jurado-Lasso,** Letizia Marchegiani, J. F. Jurado, Adnan Abu Mahfouz, Xenofon Fafoutis (2022). A Survey on Software-Defined Wireless Sensor Networks: Current status, machine learning approaches and major challenges. In _IEEE Access_. DOI: [10.1109/ACCESS.2022.3153521](https://doi.org/https://doi.org/10.1109/ACCESS.2022.3153521).
+**F. Fernando Jurado-Lasso,** Letizia Marchegiani, J. F. Jurado, Adnan Abu Mahfouz, Xenofon Fafoutis (2022). A Survey on Software-Defined Wireless Sensor Networks: Current status, machine learning approaches and major challenges. In _IEEE Access_. DOI: [10.1109/ACCESS.2022.3153521](https://doi.org/https://doi.org/10.1109/ACCESS.2022.3153521){:target="_blank"}.
 
 `2021`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Andres Navarro Cadavid, Ampalavanapillai Nirmalathas (2021). Energy-Aware Routing for Software-Defined Multihop Wireless Sensor Networks. In _IEEE Sensors Journal_. DOI: [10.1109/JSEN.2021.3059789](https://doi.org/10.1109/JSEN.2021.3059789).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Andres Navarro Cadavid, Ampalavanapillai Nirmalathas (2021). Energy-Aware Routing for Software-Defined Multihop Wireless Sensor Networks. In _IEEE Sensors Journal_. DOI: [10.1109/JSEN.2021.3059789](https://doi.org/10.1109/JSEN.2021.3059789){:target="_blank"}.
 
 `2019`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). Performance Analysis of Software-Defined Multihop Wireless Sensor Networks. In _IEEE Systems Journal_. DOI: [10.1109/JSYST.2019.2948203](https://doi.org/10.1109/JSYST.2019.2948203).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). Performance Analysis of Software-Defined Multihop Wireless Sensor Networks. In _IEEE Systems Journal_. DOI: [10.1109/JSYST.2019.2948203](https://doi.org/10.1109/JSYST.2019.2948203){:target="_blank"}.
 
 `2019`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). A Software-Defined Management System for IP-Enabled WSNs. In _IEEE Systems Journal_. DOI: [10.1109/JSYST.2019.2946781](https://doi.org/10.1109/JSYST.2019.2946781).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). A Software-Defined Management System for IP-Enabled WSNs. In _IEEE Systems Journal_. DOI: [10.1109/JSYST.2019.2946781](https://doi.org/10.1109/JSYST.2019.2946781){:target="_blank"}.
 
 ### Conferences
 
 `2018`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2018). A software-defined networking framework for IoT based on 6LoWPAN. In _2018 Wireless Telecommunications Symposium (WTS)_. DOI: [10.1109/WTS.2018.8363938](https://doi.org/10.1109/WTS.2018.8363938).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2018). A software-defined networking framework for IoT based on 6LoWPAN. In _2018 Wireless Telecommunications Symposium (WTS)_. DOI: [10.1109/WTS.2018.8363938](https://doi.org/10.1109/WTS.2018.8363938){:target="_blank"}.
 
 `2017`
 
@@ -164,19 +164,19 @@ A list is also available [online](https://scholar.google.com/citations?user=69QA
 
 ### Journal Reviewer
 
-- [IEEE Internet of Things Journal](https://ieee-iotj.org/)
-- [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/)
-- [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications)
-- [Ad Hoc Networks, Elsevier](https://www.journals.elsevier.com/ad-hoc-networks)
-- [Sensors, MDPI](https://www.mdpi.com/journal/sensors)
-- [Eletronics, MDPI](https://www.mdpi.com/journal/electronics)
-- [Transactions on Emerging Telecommunications Technologies, Wiley](https://onlinelibrary.wiley.com/journal/21613915)
-- [International Journal of Communication Systems, Wiley](https://onlinelibrary.wiley.com/journal/10991131)
+- [IEEE Internet of Things Journal](https://ieee-iotj.org/){:target="_blank"}
+- [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/){:target="_blank"}
+- [Journal of Network and Computer Applications](https://www.journals.elsevier.com/journal-of-network-and-computer-applications){:target="_blank"}
+- [Ad Hoc Networks, Elsevier](https://www.journals.elsevier.com/ad-hoc-networks){:target="_blank"}
+- [Sensors, MDPI](https://www.mdpi.com/journal/sensors){:target="_blank"}
+- [Eletronics, MDPI](https://www.mdpi.com/journal/electronics){:target="_blank"}
+- [Transactions on Emerging Telecommunications Technologies, Wiley](https://onlinelibrary.wiley.com/journal/21613915){:target="_blank"}
+- [International Journal of Communication Systems, Wiley](https://onlinelibrary.wiley.com/journal/10991131){:target="_blank"}
 
 ### Conference Reviewer
 
-- [IEEE Global Communications Conference (GLOBECOM)](https://globecom2022.ieee-globecom.org/)
-- [National Conference on Communications (NCC)](https://www.iitk.ac.in/ncc2021/)
+- [IEEE Global Communications Conference (GLOBECOM)](https://globecom2022.ieee-globecom.org/){:target="_blank"}
+- [National Conference on Communications (NCC)](https://www.iitk.ac.in/ncc2021/){:target="_blank"}
 
 ## Languages
 
