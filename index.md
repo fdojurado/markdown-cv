@@ -18,7 +18,7 @@ Postdoctoral Researcher
   <a href="http://fdojurado.github.io" target="_blank"><i class="fas fa-home"></i> fdojurado.github.io</a> |
   <a href="https://www.linkedin.com/in/fdojurado" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> |
   <a href="https://scholar.google.com/citations?user=69QAyEYAAAAJ" target="_blank"><i class="ai ai-google-scholar-square"></i> Google Scholar</a> |
-  <a href="https://github.com/fdojurado" target="_blank"><i class="fab fa-github"></i> fdojurado</a> |
+  <a href="https://github.com/fdojurado" target="_blank"><i class="fab fa-github"></i> fdojurado</a> | <br/>
   <a href="https://orcid.org/0000-0002-5005-781X" target="_blank"><i class="ai ai-orcid"></i> 0000-0002-5005-781X</a> |
   <a href="https://www.researchgate.net/profile/F-Fernando-Jurado-Lasso" target="_blank"><i class="ai ai-researchgate-square"></i> F-Fernando-Jurado-Lasso</a>
   <!-- <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a> -->
