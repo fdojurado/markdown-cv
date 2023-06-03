@@ -15,12 +15,12 @@ Postdoctoral Researcher
 
 <div id="webaddress">
   <!-- <a href="mailto:ffjla@dtu.dk"><i class="fas fa-envelope"></i> ffla@dtu.dk</a> | -->
-  <a href="http://fdojurado.github.io"><i class="fas fa-home"></i> fdojurado.github.io</a> |
-  <a href="https://www.linkedin.com/in/fdojurado"><i class="fab fa-linkedin"></i> LinkedIn</a> |
-  <a href="https://scholar.google.com/citations?user=69QAyEYAAAAJ"><i class="ai ai-google-scholar-square"></i> Google Scholar</a> |
-  <a href="https://github.com/fdojurado"><i class="fab fa-github"></i> fdojurado</a> |
-  <a href="https://orcid.org/0000-0002-5005-781X"><i class="ai ai-orcid"></i> 0000-0002-5005-781X</a> |
-  <a href="https://www.researchgate.net/profile/F-Fernando-Jurado-Lasso"><i class="ai ai-researchgate-square"></i> F-Fernando-Jurado-Lasso</a>
+  <a href="http://fdojurado.github.io" target="_blank"><i class="fas fa-home"></i> fdojurado.github.io</a> |
+  <a href="https://www.linkedin.com/in/fdojurado" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> |
+  <a href="https://scholar.google.com/citations?user=69QAyEYAAAAJ" target="_blank"><i class="ai ai-google-scholar-square"></i> Google Scholar</a> |
+  <a href="https://github.com/fdojurado" target="_blank"><i class="fab fa-github"></i> fdojurado</a> |
+  <a href="https://orcid.org/0000-0002-5005-781X" target="_blank"><i class="ai ai-orcid"></i> 0000-0002-5005-781X</a> |
+  <a href="https://www.researchgate.net/profile/F-Fernando-Jurado-Lasso" target="_blank"><i class="ai ai-researchgate-square"></i> F-Fernando-Jurado-Lasso</a>
   <!-- <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a> -->
 </div>
 
@@ -113,7 +113,7 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 
 **Daniel Borislavov, Niels Georg, and Andreas Work**, Master of Science in Engineering (MScEng), DTU Compute, Denmark.
 
-- Topic: *A Software-Defined based Approach for Mobile Internet of Things*.
+- Topic: _A Software-Defined based Approach for Mobile Internet of Things_.
 - Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 ### Bachelor students
@@ -122,14 +122,14 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 
 **Qixin Ma**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
-- Topic: *Design and Implementation of a GUI for a SDWSN Architecture*.
+- Topic: _Design and Implementation of a GUI for a SDWSN Architecture_.
 - Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 `2021-2022`
 
 **Christopher Acosta**, Bachelor of Engineering (BEng), DTU Compute, Denmark.
 
-- Topic: *Comparison of TSCH schedulers for WSNs in Contiki-NG*.
+- Topic: _Comparison of TSCH schedulers for WSNs in Contiki-NG_.
 - Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/), and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/).
 
 ## Publications
@@ -139,24 +139,24 @@ A list is also available [online](https://scholar.google.com/citations?user=69QA
 ### Journals
 
 `2023`
-**F. Fernando Jurado-Lasso**, Mohammadreza Barzegaran, J. F. Jurado, Xenofon Fafoutis (2023). ELISE: A Reinforcement Learning Framework to Optimize the Sloftframe Size of the TSCH Protocol in IoT Networks. *Preprint available at TechRxiv*. DOI: [10.36227/techrxiv.23212442.v1](https://doi.org/10.36227/techrxiv.23212442.v1).
+**F. Fernando Jurado-Lasso**, Mohammadreza Barzegaran, J. F. Jurado, Xenofon Fafoutis (2023). ELISE: A Reinforcement Learning Framework to Optimize the Sloftframe Size of the TSCH Protocol in IoT Networks. _Preprint available at TechRxiv_. DOI: [10.36227/techrxiv.23212442.v1](https://doi.org/10.36227/techrxiv.23212442.v1).
 
 `2022`
-**F. Fernando Jurado-Lasso,** Letizia Marchegiani, J. F. Jurado, Adnan Abu Mahfouz, Xenofon Fafoutis (2022). A Survey on Software-Defined Wireless Sensor Networks: Current status, machine learning approaches and major challenges. In *IEEE Access*. DOI: [10.1109/ACCESS.2022.3153521](https://doi.org/https://doi.org/10.1109/ACCESS.2022.3153521).
+**F. Fernando Jurado-Lasso,** Letizia Marchegiani, J. F. Jurado, Adnan Abu Mahfouz, Xenofon Fafoutis (2022). A Survey on Software-Defined Wireless Sensor Networks: Current status, machine learning approaches and major challenges. In _IEEE Access_. DOI: [10.1109/ACCESS.2022.3153521](https://doi.org/https://doi.org/10.1109/ACCESS.2022.3153521).
 
 `2021`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Andres Navarro Cadavid, Ampalavanapillai Nirmalathas (2021). Energy-Aware Routing for Software-Defined Multihop Wireless Sensor Networks. In *IEEE Sensors Journal*. DOI: [10.1109/JSEN.2021.3059789](https://doi.org/10.1109/JSEN.2021.3059789).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Andres Navarro Cadavid, Ampalavanapillai Nirmalathas (2021). Energy-Aware Routing for Software-Defined Multihop Wireless Sensor Networks. In _IEEE Sensors Journal_. DOI: [10.1109/JSEN.2021.3059789](https://doi.org/10.1109/JSEN.2021.3059789).
 
 `2019`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). Performance Analysis of Software-Defined Multihop Wireless Sensor Networks. In *IEEE Systems Journal*. DOI: [10.1109/JSYST.2019.2948203](https://doi.org/10.1109/JSYST.2019.2948203).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). Performance Analysis of Software-Defined Multihop Wireless Sensor Networks. In _IEEE Systems Journal_. DOI: [10.1109/JSYST.2019.2948203](https://doi.org/10.1109/JSYST.2019.2948203).
 
 `2019`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). A Software-Defined Management System for IP-Enabled WSNs. In *IEEE Systems Journal*. DOI: [10.1109/JSYST.2019.2946781](https://doi.org/10.1109/JSYST.2019.2946781).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2019). A Software-Defined Management System for IP-Enabled WSNs. In _IEEE Systems Journal_. DOI: [10.1109/JSYST.2019.2946781](https://doi.org/10.1109/JSYST.2019.2946781).
 
 ### Conferences
 
 `2018`
-**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2018). A software-defined networking framework for IoT based on 6LoWPAN. In *2018 Wireless Telecommunications Symposium (WTS)*. DOI: [10.1109/WTS.2018.8363938](https://doi.org/10.1109/WTS.2018.8363938).
+**F. Fernando Jurado-Lasso**, Ken Clarke, Ampalavanapillai Nirmalathas (2018). A software-defined networking framework for IoT based on 6LoWPAN. In _2018 Wireless Telecommunications Symposium (WTS)_. DOI: [10.1109/WTS.2018.8363938](https://doi.org/10.1109/WTS.2018.8363938).
 
 `2017`
 
