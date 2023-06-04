@@ -140,7 +140,9 @@ List of publications is also available [online](https://scholar.google.com/citat
 ### Journals
 
 `2023`
-**F. Fernando Jurado-Lasso**, Mohammadreza Barzegaran, J. F. Jurado, Xenofon Fafoutis (2023). ELISE: A Reinforcement Learning Framework to Optimize the Sloftframe Size of the TSCH Protocol in IoT Networks. _Preprint available at TechRxiv_. DOI: 10.36227/techrxiv.23212442.v1. <a href="http://sdwsn-controller.readthedocs.io/" target="_blank"><i class="fas fa-home"></i></a> &nbsp;<a href="https://github.com/fdojurado/SDWSN-controller.git" target="_blank"><i class="fab fa-github"></i></a>&nbsp;&nbsp;<a href="https://doi.org/10.36227/techrxiv.23212442.v1" target="_blank"><i class="fas fa-file-pdf"></i></a>
+**F. Fernando Jurado-Lasso**, Mohammadreza Barzegaran, J. F. Jurado, Xenofon Fafoutis (2023). ELISE: A Reinforcement Learning Framework to Optimize the Sloftframe Size of the TSCH Protocol in IoT Networks. _Preprint available at TechRxiv_. DOI: 10.36227/techrxiv.23212442.v1. <a href="http://sdwsn-controller.readthedocs.io/" target="_blank"><i class="fas fa-home"></i></a> &nbsp;<a href="https://github.com/fdojurado/SDWSN-controller.git" target="_blank"><i class="fab fa-github"></i></a>&nbsp;&nbsp;<a href="https://doi.org/10.36227/techrxiv.23212442.v1" target="_blank"><i class="fas fa-file-pdf"></i></a>&nbsp;&nbsp;<a href="https://fdojurado.github.io/SDWSN-controller/elise/" target="_blank"><i class="fab fa-slideshare"></i></a>
+
+`2022`
 
 `2022`
 **F. Fernando Jurado-Lasso,** Letizia Marchegiani, J. F. Jurado, Adnan Abu Mahfouz, Xenofon Fafoutis (2022). A Survey on Software-Defined Wireless Sensor Networks: Current status, machine learning approaches and major challenges. In _IEEE Access_. DOI: 10.1109/ACCESS.2022.3153521. <a href="https://doi.org/https://doi.org/10.1109/ACCESS.2022.3153521" target="_blank"><i class="fas fa-file-pdf"></i></a>
