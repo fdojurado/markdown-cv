@@ -26,7 +26,8 @@ Postdoctoral Researcher
 
 ## Research interests
 
-I am interested in the application of machine learning techniques to wireless sensor networks. My research focuses on the design and implementation of software-defined wireless sensor networks (SDWSNs) and the application of machine learning techniques to improve the performance of SDWSNs. I am also interested in the application of machine learning techniques to other areas of wireless communications, such as the Internet of Things (IoT).
+I am interested in the broad area of Internet of Things (IoT) and wireless communications.
+Specifically, my research focuses on the design and implementation of Software-Defined Wireless Sensor Networks (SDWSNs) and the application of machine learning techniques to improve the performance of IoT and industrial IoT (IIoT) networks.
 
 ## Education
 
@@ -41,11 +42,15 @@ I am interested in the application of machine learning techniques to wireless se
 **MEng, Telecommunications Engineering**, [The University of Melbourne](https://www.unimelb.edu.au/){:target="\_blank"}, Australia
 
 - EEE Department.
+- First Class Honours.
+- Supervised by Prof. Ken Clarke.
 
 `2006-2012`
 **BEng, Electronics Engineering**, [Universidad del Valle](https://www.univalle.edu.co/){:target="\_blank"}, Colombia
 
 - [Escuela de Ingenierías Eléctrica y Electrónica (EIEE)](https://eiee.univalle.edu.co/ingenieria-electronica){:target="\_blank"}.
+- First Class Honours.
+- Supervised by Prof. Jaime Velasco M.
 
 ## Research experience
 
@@ -58,50 +63,49 @@ I am interested in the application of machine learning techniques to wireless se
 `2015`
 **Research Intern**, NSI, EEE Department, The University of Melbourne, Australia
 
-## Awards & honors
-
-`2018`
-
-Melbourne School of Engineering Conference Travel Scholarships, Australia
-
-`2017`
-Ph.D. Studentship, NSI, The University of Melbourne, Australia
-
-`2017`
-Colciencias Doctoral Scholarship, Colombian Government
-
-`2015`
-Research internship, NSI, The University of Melbourne, Australia
-
-`2014`
-Colfuturo’s scholarship, Colombia
-
-`2011`
-Distinguished Student Award, The University of Valle, Colombia
-
 ## Teaching
 
 ### Main courses
 
 `2020`
-Head Tutor, [Electrical Network Analysis and Design (ENAD)](https://handbook.unimelb.edu.au/2021/subjects/elen30009){:target="\_blank"}.
+**Head Tutor, [Electrical Network Analysis and Design (ENAD)](https://handbook.unimelb.edu.au/2021/subjects/elen30009){:target="\_blank"}.**
 
 - EEE Department, The University of Melbourne
+- Undergraduate coursework
+- Responsibilities:
+  1. Guide students on theoretical concepts on electrical networks and circuit analysis.
+  2. Design and delivery of tutorials.
+  3. Solve students' questions and provide feedback on their assignments.
+  4. Marking of assignments and exams.
+  5. Lead a team of tutors.
 
 `2018-2020`
-Head Tutor, [Embedded System Design (ESD)](https://handbook.unimelb.edu.au/2021/subjects/elen90066){:target="\_blank"}.
+**Head Tutor, [Embedded System Design (ESD)](https://handbook.unimelb.edu.au/2021/subjects/elen90066){:target="\_blank"}.**
 
 - EEE Department, The University of Melbourne
+- Postgraduate coursework
+- Responsibilities:
+  1. Guide students on theoretical concepts on embedded systems, hardware design, and software development.
+  2. Solve students' questions and provide feedback on their assignments.
+  3. Marking of assignments and exams.
+  4. Lead a team of tutors.
 
-`2018-2019`
-Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.unimelb.edu.au/2021/subjects/elen30014){:target="\_blank"}.
+`2018-2020`
+
+**Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.unimelb.edu.au/2021/subjects/elen30014){:target="\_blank"}.**
 
 - EEE Department, The University of Melbourne
+- Undergraduate coursework
+- Responsibilities:
+  1. Guide students on theoretical concepts on analog and digital electronics.
+  2. Solve students' questions and provide feedback on their assignments.
+  3. Marking of assignments and exams.
+  4. Lead a team of tutors.
 
 ### Guest lectures
 
 `2021-2023`
-[Operating Systems for IoT](https://kurser.dtu.dk/course/02159){:target="\_blank"}
+**[Operating Systems for IoT](https://kurser.dtu.dk/course/02159){:target="\_blank"}.**
 
 - ESE, DTU Compute, DTU
 
@@ -131,6 +135,34 @@ Head Tutor, [Analog and Digital Electronics Concepts (ADEC)](https://handbook.un
 
 - Topic: _Comparison of TSCH schedulers for WSNs in Contiki-NG_.
 - Supervised by [Assoc. Prof. Xenofon Fafoutis](http://xefa.eu/){:target="\_blank"}, and Co-supervised by [F. Fernando Jurado-Lasso](https://fdojurado.github.io/){:target="\_blank"}.
+
+## Grants and Awards
+
+`2018`
+
+Melbourne School of Engineering Conference Travel Scholarships, Australia (AUD $1,500)
+
+`2017`
+Ph.D. Studentship, NSI, The University of Melbourne, Australia (AUD $25,000 per year)
+
+`2017`
+Melbourne Fee Remission Scholarship, The University of Melbourne, Australia (full tuition fee waiver)
+
+`2017`
+Colciencias Doctoral Scholarship, Colombian Government (AUD $153,000)
+
+`2015`
+Research internship, NSI, The University of Melbourne, Australia
+
+`2014`
+
+Santander Formula Scholarship, University of Leicester, UK (GBP $4,200 - not taken)
+
+`2014`
+Colfuturo’s scholarship, Colombia (USD $50,000)
+
+`2011`
+Distinguished Student Award, The University of Valle, Colombia (full tuition fee waiver)
 
 ## Publications
 
